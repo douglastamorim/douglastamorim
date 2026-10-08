@@ -1,4 +1,4 @@
-# Olá! Eu sou Douglas T amorim 👋
+# Olá! Eu sou Douglas T Amorim 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Em formação na área de Tecnologia da Informação
