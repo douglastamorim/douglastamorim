@@ -1,16 +1,33 @@
-## Hi there 👋
+# Olá! Eu sou Douglas T amorim 👋
 
-<!--
-**douglastamorim/douglastamorim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Em formação na área de Tecnologia da Informação
 
-Here are some ideas to get you started:
+## 📚 Atualmente estudando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Algoritmos e Lógica de Programação
+- C
+- Python
+- Java
+- Git e GitHub
+- Tecnologia da Informação
+- Desenvolvimento de Software
+
+## 🚀 Sobre mim
+
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou
+construindo minha trajetória na área de tecnologia.
+
+Tenho interesse em programação, desenvolvimento de software e
+aprendizado contínuo, buscando transformar meus estudos em
+projetos práticos.
+
+## 🎯 Objetivo
+
+Desenvolver minhas habilidades técnicas, adquirir experiência
+e construir uma carreira na área de tecnologia.
+
+## 📂 Projetos
+
+Aqui você encontrará projetos acadêmicos, exercícios e projetos
+desenvolvidos durante minha jornada de aprendizado.
